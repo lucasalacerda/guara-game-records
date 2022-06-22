@@ -1,0 +1,22 @@
+{
+  "name": "guara-game-records",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lucasalacerda/guara-game-records.git"
+  },
+  "author": "Lucas Lacerda",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/lucasalacerda/guara-game-records/issues"
+  },
+  "homepage": "https://github.com/lucasalacerda/guara-game-records#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
